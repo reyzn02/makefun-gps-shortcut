@@ -7,8 +7,8 @@ $MAKEFUN_OUTPUT_DIR/entry.txt). Stdlib only, no network, deterministic.
 import os
 
 LINE = (
-    "The map swore this was a shortcut, so I took us through a wedding, "
-    "a cul-de-sac, and \u2014 technically \u2014 a lake."
+    "The map swore this was a shortcut, so I drove us through a wedding, "
+    "a cul-de-sac, and \u2014 legally speaking \u2014 a lake."
 )
 
 
